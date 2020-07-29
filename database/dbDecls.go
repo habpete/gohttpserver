@@ -8,4 +8,8 @@ type dbParams struct {
 	string pwd
 }
 
-type Users struct {}
+type Users struct {
+	string username,
+	string age,
+	string address
+}
